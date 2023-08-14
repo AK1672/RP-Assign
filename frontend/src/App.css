@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+  font-size: large;
+  
+}
+
+.container{
+  width: 400px;
+  background-color: whitesmoke;
+  margin-top: 7%;
+  padding: 50px;
+  border-radius: 25px;
+}
+
+button{
+  width:100%;
+}
